@@ -1,0 +1,14 @@
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Development dependencies
+pytest==7.4.2
+black==23.7.0
+flake8==6.0.0
+mypy==1.5.1
+
+# Optional: Web framework
+# flask==2.3.3
+# fastapi==0.103.1
+# uvicorn==0.23.2
